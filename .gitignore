@@ -8,3 +8,4 @@ wheels/
 
 # Virtual environments
 .venv
+Notebooks/Crashes_in_DC.geojson
